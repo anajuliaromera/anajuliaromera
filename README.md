@@ -1,8 +1,11 @@
-
 <h1 align="center">Hello World! I'm Ana 👋</h1>
 
 <p align="center">
-  💻 Student of Computer Science| 🚀 Exploring the horizons of Computer Science and Computational Astrophysics
+  <img src="https://media.giphy.com/media/fdLRP99fR0nQs/giphy.gif" width="100%"/>
+</p>
+
+<p align="center">
+  💻 Student of Computer Science | 🚀 Exploring the horizons of Computer Science and Computational Astrophysics
 </p>
 
 ---
@@ -10,7 +13,7 @@
 ### 🧠 Acquirements
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,django,git,github,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,powerbi,c,html&theme=light" />
 </p>
 
 ---
@@ -34,4 +37,3 @@
 ---
 
 ⭐️ **Thank you so much for visiting my profile!**
-
