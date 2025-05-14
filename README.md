@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Ana 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fdLRP99fR0nQs/giphy.gif" width="100%"/>
+  <img src="https://cdn.pixabay.com/animation/2023/01/24/23/11/23-11-02-534.gif" width="100%" />
 </p>
 
 <p align="center">
